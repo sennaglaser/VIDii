@@ -28,15 +28,14 @@ Mijn startniveau is: blauw
   <summary>De eerste versie/schets van je ontwerp & je persoonlijke uitdaging</summary>
 
   ### De eerste versie/schets:
-  <img src="Visual Interface Design/schetsen.png" width="375px" alt="eerste versie/schets">
+  <img src="Visual Interface Design/schetsen.png" width="375px" alt="schetsen">
 
 
   ### Je ambitie: 
   Aan deze technieken/punten wil ik werken:
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - Positioneren met CSS
+  - Animeren met CSS
+  - Zelf HTML typen
  
 </details>
 
