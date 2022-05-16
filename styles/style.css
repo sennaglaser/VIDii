@@ -30,7 +30,7 @@
 
 /* CUSTOM PROPERTIES */
 :root {
-  --hoofd-kleur:hsl(43, 74%, 49%);
+  --hoofd-kleur:gold;
   --flikkerd-licht-1:hsl(43, 74%, 49%);
   --flikkerd-licht-2:hsl(43, 63%, 58%);
   --flikkerd-licht-3:hsl(43, 52%, 63%);
@@ -67,8 +67,14 @@ section.button-container {
   top:18em;
   left:50%;
   transform: translateX(-50%);
+}
+
+section.button-container ol{
   display:flex;
   gap:1em;
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
 
 button {
@@ -81,23 +87,19 @@ button {
   display: block;
 }
 
+button:hover {
+transform:translatey(2px);
+
+  filter:
+  drop-shadow(0 0 .25em var(--hoofd-kleur))
+  drop-shadow(0 0 .5em var(--hoofd-kleur));
+
+cursor:pointer;
+}
+
 .tekst1928 {
 
 }
-
-/* img.tekst1928:hover {
-animation-name: tekstgroter;
-animation-duration: .3s;
-}
-
-@keyframes tekstgroter {
-  0% {
-  transform: scale(0.5);
-  }
-  100% {
-  transform: scale(2);
-  }
-} */
 
 .tekst1935 {
 
@@ -115,12 +117,38 @@ button img {
   width:100%;
 }
 
+
+
+
+/* tekstwolken */
+.tekstwolk {
+  display: block;
+  margin-left: auto;
+  margin-right: 25em;
+  margin-bottom: 0;
+  margin-top: -25em;
+  width: 18em;
+}
+
+a {
+  font-size: 1.5em;
+  z-index: 3;
+  position: absolute;
+  top: 21em;
+  left: 32.5em;
+  color: red;
+}
+
+a:hover {
+  color: black;
+}
+
 /* mickys */
 
 .deMicky {
   display: block;
   margin-left: auto;
-  margin-right: auto;
+  margin-right: 40em;
   margin-bottom: auto;
   margin-top: 15em;
   width: 18em;
@@ -209,10 +237,9 @@ button img {
     transform: translateX(33%); 
   }
 }
-/* 
-button:not([disabled]) {
-  cursor:pointer;
-} */
+
+
+
 
 /* TEKSTEN */
 
