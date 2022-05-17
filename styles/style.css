@@ -127,40 +127,110 @@ button img {
 .deMicky {
   position: fixed;
   
-  
   display: block;
 
-  width: 18em;
+  /* width: 18em; */
   bottom: 0;
   animation-name: springen;
-  animation-duration: 8s;
+  animation-duration: 5s;
   z-index: 0;
+}
+
+@keyframes springen {
+  0% {
+  transform: translateY(0em);  
+  } 
+  40% {
+  transform: translateY(0em);  
+  }
+  50% {
+  transform: translateY(-10em);   
+  }
+  80% {
+  transform: translateY(0em);   
+  }
 }
 
 .deMicky.micky1928 {
   content:url(../images/micky1928.png);
   left:calc(50% - 16em);
   bottom:0em;
+  width: 18em;
 }
 
 .deMicky.micky1935 {
   content:url(../images/micky1935.png);
   left:calc(50% -  2em);
   bottom: -1em;
+  width: 18em;
+
+  animation: rotate-vert-center 0.5s cubic-bezier(0.455, 0.030, 0.515, 0.955) both;
+  animation-duration: 3s;
 }
+
+@keyframes rotate-vert-center {
+  0% {
+    -webkit-transform: rotateY(0);
+            transform: rotateY(0);
+  }
+  100% {
+    -webkit-transform: rotateY(360deg);
+            transform: rotateY(360deg);
+  }
+}
+/* bron: https://animista.net/play/basic/rotate/rotate-vert-center */
 
 .deMicky.micky1999 {
   content:url(../images/micky1999.png);
   transform: scale(1.1);
   left:calc(50% - 14em);
   bottom:1em;
+  width: 18em;
+
+  animation: slide-in-elliptic-left-fwd 0.7s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+  animation-duration: 1.5s;
 }
+
+@keyframes slide-in-elliptic-left-fwd {
+  0% {
+    -webkit-transform: translateX(-800px) rotateY(30deg) scale(0);
+            transform: translateX(-800px) rotateY(30deg) scale(0);
+    -webkit-transform-origin: -100% 50%;
+            transform-origin: -100% 50%;
+    opacity: 0;
+  }
+  100% {
+    -webkit-transform: translateX(0) rotateY(0) scale(1);
+            transform: translateX(0) rotateY(0) scale(1);
+    -webkit-transform-origin: 1800px 50%;
+            transform-origin: 1800px 50%;
+    opacity: 1;
+  }
+}
+/* bron: https://animista.net/play/entrances/slide-in-elliptic/slide-in-elliptic-left-fwd */
 
 .deMicky.micky2020 {
   content:url(../images/mickey2020.png);
-  transform: scale(0.9);
+  width: 16em;
   left:calc(50% - 3em);
   bottom:-1em;
+  animation-name: springen2;
+  animation-duration: 3s;
+}
+
+@keyframes springen2 {
+  0% {
+  transform: translateY(0em);  
+  } 
+  40% {
+  transform: translateY(-10em);  
+  }
+  50% {
+  transform: translateY(-10em);   
+  }
+  80% {
+  transform: translateY(0em);   
+  }
 }
 
 
@@ -177,7 +247,7 @@ button img {
 }
 
 .deMicky.micky1928 + .tekstwolk {
-  bottom: 16.5em;
+  bottom: 15.4em;
   left: calc(50% - 2em);
 }
 
@@ -219,7 +289,7 @@ a:hover {
 }
 
 .deMicky.micky1928 ~ a {
-  bottom: 20rem;
+  bottom: 18.5rem;
   left: calc(50% - 1rem);
 }
 
@@ -240,69 +310,6 @@ a:hover {
 
 
 
-@keyframes springen {
-  0% {
-  transform: translateY(0em);  
-  } 
-  40% {
-  transform: translateY(0em);  
-  }
-  50% {
-  transform: translateY(-10em);   
-  }
-  80% {
-  transform: translateY(0em);   
-  }
-}
-
-/* animaties */
-/* animation: flip-horizontal-bottom 0.4s cubic-bezier(0.455, 0.030, 0.515, 0.955) both;
-
-@keyframes flip-horizontal-bottom {
-  0% {
-    -webkit-transform: rotateX(0);
-            transform: rotateX(0);
-  }
-  100% {
-    -webkit-transform: rotateX(-180deg);
-            transform: rotateX(-180deg);
-  }
-} */
-/* bron: https://animista.net/play/basic/flip/flip-horizontal-bottom */
-
-/* animation: rotate-vert-center 0.5s cubic-bezier(0.455, 0.030, 0.515, 0.955) both;
-
-@keyframes rotate-vert-center {
-  0% {
-    -webkit-transform: rotateY(0);
-            transform: rotateY(0);
-  }
-  100% {
-    -webkit-transform: rotateY(360deg);
-            transform: rotateY(360deg);
-  }
-} */
-/* bron: https://animista.net/play/basic/rotate/rotate-vert-center */
-
-/* animation: slide-in-elliptic-left-fwd 0.7s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
-
-@keyframes slide-in-elliptic-left-fwd {
-  0% {
-    -webkit-transform: translateX(-800px) rotateY(30deg) scale(0);
-            transform: translateX(-800px) rotateY(30deg) scale(0);
-    -webkit-transform-origin: -100% 50%;
-            transform-origin: -100% 50%;
-    opacity: 0;
-  }
-  100% {
-    -webkit-transform: translateX(0) rotateY(0) scale(1);
-            transform: translateX(0) rotateY(0) scale(1);
-    -webkit-transform-origin: 1800px 50%;
-            transform-origin: 1800px 50%;
-    opacity: 1;
-  }
-} */
-/* bron: https://animista.net/play/entrances/slide-in-elliptic/slide-in-elliptic-left-fwd */
 
 /* de gordijnen */
 .gordijnlinks {
@@ -312,8 +319,8 @@ a:hover {
   height: 100vh;
   width: 105vw;
   animation-name: gordijnlinks-animatie;
-  animation-duration: 1s;
-  z-index: 1;
+  animation-duration: 5s;
+  z-index: 400;
   animation-fill-mode: forwards;
 
   pointer-events: none;
@@ -336,8 +343,8 @@ a:hover {
   height: 100vh;
   width: 105vw;
   animation-name: gordijnrechts-animatie;
-  animation-duration: 1s;
-  z-index: 1;
+  animation-duration: 5s;
+  z-index: 400;
   animation-fill-mode: forwards;
 
   pointer-events: none;
