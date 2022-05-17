@@ -34,3 +34,12 @@ function micky2020InBeeld() {
     deMicky.classList.remove("micky1928", "micky1935", "micky1999")
 	deMicky.classList.toggle("micky2020")
 }
+
+
+
+
+
+
+
+
+
