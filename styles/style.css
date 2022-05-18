@@ -30,6 +30,7 @@
   --flikkerd-licht-4:hsl(44, 42%, 79%);
   --kleur-link: rgb(255,0,0);
   --kleur-hover: rgb(0,0,0);
+  --kleur-button: rgb(255, 196, 0);
 }
 
 
@@ -74,7 +75,7 @@ section.button-container ol{
   padding: 0;
 }
 
-button {
+section.button-container ol button {
   width: 10vw;
   background: none;
   border: none;
@@ -84,7 +85,7 @@ button {
   display: block;
 }
 
-button:hover {
+section.button-container ol utton:hover {
 transform:translatey(2px);
 
   filter:
@@ -94,7 +95,7 @@ transform:translatey(2px);
 cursor:pointer;
 }
 
-button img {
+section.button-container ol button img {
   width:100%;
 }
 
@@ -233,7 +234,7 @@ button img {
   width: 16vw;
   left:calc(50% - 3vw);
   bottom:-1vw;
-  
+
   animation-name: springen;
   animation-duration: 2s;
 }
@@ -380,8 +381,13 @@ a:hover {
   animation-duration: 5s;
   z-index: 400;
   animation-fill-mode: forwards;
+  animation-play-state: paused;
 
   pointer-events: none;
+}
+
+body.tadaa .gordijnlinks {
+  animation-play-state: running;
 }
 
 @keyframes gordijnlinks-animatie {
@@ -404,8 +410,13 @@ a:hover {
   animation-duration: 5s;
   z-index: 400;
   animation-fill-mode: forwards;
+  animation-play-state: paused;
 
   pointer-events: none;
+}
+
+body.tadaa .gordijnrechts {
+  animation-play-state: running;
 }
 
 @keyframes gordijnrechts-animatie {
@@ -535,3 +546,26 @@ p {
   }
 } 
 /* bron: https://animista.net/play/text/flicker/text-flicker-out-glow */
+
+
+
+button.tadaa {
+  position: fixed;
+  border-radius:300em;
+
+  color: var(--kleur-link);
+  background-color: var(--kleur-button);
+  font-family: 'budmojiggler';
+  font-size: 7vw;
+  border: none;
+
+  z-index: 1000;
+  width:250px;
+  height:250px;
+
+  cursor:pointer;
+}
+
+body.tadaa button.tadaa {
+  display: none;
+}

@@ -50,6 +50,9 @@ Mijn startniveau is: blauw
   <summary>
   
   Ik ben begonnen met de achtergrond en de gordijnen. Ik wilde heel graag dat als je op de pagina komt dat de gordijnen open gaan. Dit heb ik samen met Sanne gedaan aan de hand van eem animatie. Animeren met CSS was één van mijn ambities, dus het was erg interessant om hier de eerste week meteen mee te beginnen. 
+
+  Ik heb ook mijn eerste Micky toegevoegd en gepositioneerd. 
+
   Mijn bevindingen + wijzigingen (minimaal 5)
   
   </summary>
@@ -63,10 +66,10 @@ Mijn startniveau is: blauw
 
 
   ### Bevinding 2:
-  Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
+  Ik had zelf nog niet nagedacht over geluid, dus ik kreeg als feedback dat dit een leuke extra zou kunnen zijn. Bij Mickey Mouse kan je namelijk veel passende geluiden vinden om zo de interface nog meer een geheel te maken. 
 
   #### oplossing:
-  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
+  Geluiden zoeken die passen bij het concept en het onderwerp.
 
 
 
@@ -81,10 +84,15 @@ Mijn startniveau is: blauw
 ## Voortgang/Feedback 2
 
 <details>
-  <summary>Mijn bevindingen + wijzigingen (minimaal 5)</summary>
+  <summary>
+  
+  
+  Mijn bevindingen + wijzigingen (minimaal 5)</summary>
   
   ### Bevinding 1:
-  Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
+  Het contrast van de tekst was nog niet goed. Ik heb de kleur van de letter daarom wat feller geel gemaakt. Zo springen de letters er meer uit en zijn ze beter zichtbaar.
+
+  <img src="readme-images/veranderingtekst.png" width="375px" alt="tekst">
 
   #### oplossing:
   Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
@@ -113,6 +121,8 @@ Mijn startniveau is: blauw
   
   ### Bevinding 1:
   Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
+
+
 
   #### oplossing:
   Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).

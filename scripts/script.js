@@ -10,7 +10,7 @@ function micky1928InBeeld() {
 	deMicky.classList.remove("micky1935", "micky1999", "micky2020")
     deMicky.classList.add("micky1928")
     tekstLink.href="https://vandaagindegeschiedenis.nl/15-mei/";
-    tekstLink.textContent = "Find out more about me";
+    tekstLink.textContent = "Find out more about me.";
 }
 
 // button 1935
@@ -43,6 +43,19 @@ function micky2020InBeeld() {
     tekstLink.textContent = "More about me!";
 }
 
+
+
+// TADAA
+
+var tadaaButton = document.querySelector("button.tadaa");
+var deAudio = document.querySelector("audio");
+
+tadaaButton.addEventListener("click", tatatataaaa);
+
+function tatatataaaa() {
+    document.body.classList.add("tadaa");
+    deAudio.play();
+}
 
 
 
