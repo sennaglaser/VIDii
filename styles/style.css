@@ -61,21 +61,21 @@ body{
 /* buttons */
 section.button-container {
   position: fixed;
-  top:18em;
+  top:18vw;
   left:50%;
   transform: translateX(-50%);
 }
 
 section.button-container ol{
   display:flex;
-  gap:1em;
+  gap:1vw;
   list-style: none;
   margin: 0;
   padding: 0;
 }
 
 button {
-  width: 10em;
+  width: 10vw;
   background: none;
   border: none;
   border: none;
@@ -129,8 +129,9 @@ button img {
   
   display: block;
 
-  /* width: 18em; */
   bottom: 0;
+  height: auto;
+
   animation-name: springen;
   animation-duration: 5s;
   z-index: 0;
@@ -141,7 +142,7 @@ button img {
   transform: translateY(0em);  
   } 
   40% {
-  transform: translateY(0em);  
+  transform: translateY(-10em);  
   }
   50% {
   transform: translateY(-10em);   
@@ -153,16 +154,17 @@ button img {
 
 .deMicky.micky1928 {
   content:url(../images/micky1928.png);
-  left:calc(50% - 16em);
-  bottom:0em;
-  width: 18em;
+  left:calc(50% - 16vw);
+  bottom: -1vw;
+  width: 18vw;
+  margin-left: auto;
 }
 
 .deMicky.micky1935 {
   content:url(../images/micky1935.png);
-  left:calc(50% -  2em);
-  bottom: -1em;
-  width: 18em;
+  left:calc(50% -  2vw);
+  bottom: -1vw;
+  width: 18vw;
 
   animation: rotate-vert-center 0.5s cubic-bezier(0.455, 0.030, 0.515, 0.955) both;
   animation-duration: 3s;
@@ -183,9 +185,9 @@ button img {
 .deMicky.micky1999 {
   content:url(../images/micky1999.png);
   transform: scale(1.1);
-  left:calc(50% - 14em);
-  bottom:1em;
-  width: 18em;
+  left:calc(50% - 14vw);
+  bottom:1vw;
+  width: 18vw;
 
   animation: slide-in-elliptic-left-fwd 0.7s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
   animation-duration: 1.5s;
@@ -211,9 +213,9 @@ button img {
 
 .deMicky.micky2020 {
   content:url(../images/mickey2020.png);
-  width: 16em;
-  left:calc(50% - 3em);
-  bottom:-1em;
+  width: 16vw;
+  left:calc(50% - 3vw);
+  bottom:-1vw;
   animation-name: springen2;
   animation-duration: 3s;
 }
@@ -242,44 +244,44 @@ button img {
 
   display: block;
 
-  width: 18em;
+  width: 18vw;
   height:auto;
 }
 
 .deMicky.micky1928 + .tekstwolk {
-  bottom: 15.4em;
-  left: calc(50% - 2em);
+  bottom: 15.4vw;
+  left: calc(50% - 2vw);
 }
 
 .deMicky.micky1935 + .tekstwolk {
   content:url(../images/tekstwolklinks.png);
-  bottom: 15em;
-  left: calc(50% - 18em);
+  bottom: 15vw;
+  left: calc(50% - 18vw);
 }
 
 .deMicky.micky1999 + .tekstwolk {
-  bottom: 15em;
-  left: calc(50% - 3em);
+  bottom: 15vw;
+  left: calc(50% - 3vw);
 }
 
 .deMicky.micky2020 + .tekstwolk {
   content:url(../images/tekstwolklinks.png);
-  bottom: 15em;
-  left: calc(50% - 18em);
+  bottom: 15vw;
+  left: calc(50% - 18vw);
 }
 
 
 a {
-  position: absolute;
+  position: fixed;
   z-index: 200;
 
-  width: 16rem;
-  height:9rem;
+  width: 16vw;
+  height:9vw;
 
   display:grid;
   place-items:center;
 
-  font-size: 1.5em;
+  font-size: 1.5vw;
   
   color: var(--kleur-link);
 }
@@ -289,23 +291,23 @@ a:hover {
 }
 
 .deMicky.micky1928 ~ a {
-  bottom: 18.5rem;
-  left: calc(50% - 1rem);
+  bottom: 18.5vw;
+  left: calc(50% - 1vw);
 }
 
 .deMicky.micky1935 ~ a {
-  bottom: 18rem;
-  left: calc(50% - 17rem);
+  bottom: 18vw;
+  left: calc(50% - 17vw);
 }
 
 .deMicky.micky1999 ~ a {
-  bottom: 18rem;
-  left: calc(50% - 2rem);
+  bottom: 18vw;
+  left: calc(50% - 2vw);
 }
 
 .deMicky.micky2020 ~ a {
-  bottom: 18.5rem;
-  left: calc(50% - 17rem);
+  bottom: 18.5vw;
+  left: calc(50% - 17vw);
 }
 
 
@@ -368,7 +370,7 @@ h1 {
   color:var(--hoofd-kleur);
 
   font-family: 'budmojiggler' ;
-  font-size: 4em;
+  font-size: 4vw;
 
   text-align: center;
 }
@@ -377,7 +379,7 @@ h1 {
 p {
   text-align: center;
 
-  font-size: 3em;
+  font-size: 3vw;
   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   color: var(--hoofd-kleur);
 
