@@ -30,13 +30,14 @@ Mijn startniveau is: blauw
   ### De eerste versie/schets:
   <img src="readme-images/schetsen.png" width="375px" alt="schetsen">
   <img src="readme-images/versie1.png" width="375px" alt="schetsen">
-  <img src="readme-images/idee1.png" width="375px" alt="schetsen">
+  <img src="readme-images/idee.png" width="375px" alt="schetsen">
 
   ### Je ambitie: 
   Aan deze technieken/punten wil ik werken:
   - Positioneren met CSS
   - Animeren met CSS
   - Zelf HTML typen
+  - Kennis op doen over javascript
  
 </details>
 
@@ -46,13 +47,18 @@ Mijn startniveau is: blauw
 ## Voortgang/Feedback 1
 
 <details>
-  <summary>Mijn bevindingen + wijzigingen (minimaal 5)</summary>
+  <summary>
+  
+  Ik ben begonnen met de achtergrond en de gordijnen. Ik wilde heel graag dat als je op de pagina komt dat de gordijnen open gaan. Dit heb ik samen met Sanne gedaan aan de hand van eem animatie. Animeren met CSS was één van mijn ambities, dus het was erg interessant om hier de eerste week meteen mee te beginnen. 
+  Mijn bevindingen + wijzigingen (minimaal 5)
+  
+  </summary>
 
   ### Bevinding 1:
-  Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
+  Het idee was dat als er een nieuwe micky kwam de gordijnen dicht en weer open zouden gaan. Uit de feedback bleek dat dit vertraging brengt in de interface en je minder soepel door interface kan. 
 
   #### oplossing:
-  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
+  Ik heb er toen voor gekozen dat de gordijnen alleen op het begin open gaan. Als je nu op een ander jaartal klikt komt meteen de goede Mickey in beeld. Je hoeft niet meer te wachtenm tot de gordijnen open zijn. 
 
 
 
