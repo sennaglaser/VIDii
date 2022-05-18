@@ -262,7 +262,23 @@ button img {
 .deMicky.micky1999 + .tekstwolk {
   bottom: 15vw;
   left: calc(50% - 3vw);
+  animation: scale-in-center 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+  animation-duration: 3s;
 }
+
+@keyframes scale-in-center {
+  0% {
+    -webkit-transform: scale(0);
+            transform: scale(0);
+    opacity: 1;
+  }
+  100% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+    opacity: 1;
+  }
+}
+
 
 .deMicky.micky2020 + .tekstwolk {
   content:url(../images/tekstwolklinks.png);
@@ -303,6 +319,21 @@ a:hover {
 .deMicky.micky1999 ~ a {
   bottom: 18vw;
   left: calc(50% - 2vw);
+  animation: scale-in-center 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+  animation-duration: 3s;
+}
+
+@keyframes scale-in-center {
+  0% {
+    -webkit-transform: scale(0);
+            transform: scale(0);
+    opacity: 1;
+  }
+  100% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+    opacity: 1;
+  }
 }
 
 .deMicky.micky2020 ~ a {
