@@ -4,16 +4,16 @@
 
 @font-face {
   font-family: 'budmojiggler';
-  src: url('../lettertypes/budmo_jiggler-webfont.woff2') format('woff2'),
-       url('../lettertypes/budmo_jiggler-webfont.woff') format('woff');
+  src: url('../Lettertypes/budmo_jiggler-webfont.woff2') format('woff2'),
+       url('../Lettertypes/budmo_jiggler-webfont.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'budmojigglish';
-  src: url('../lettertypes/budmo_jigglish-webfont.woff2') format('woff2'),
-       url('../lettertypes/budmo_jigglish-webfont.woff') format('woff');
+  src: url('../Lettertypes/budmo_jigglish-webfont.woff2') format('woff2'),
+       url('../Lettertypes/budmo_jigglish-webfont.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
