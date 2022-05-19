@@ -49,9 +49,9 @@ Mijn startniveau is: blauw
 <details>
   <summary>
   
-  Ik ben begonnen met de achtergrond en de gordijnen. Ik wilde heel graag dat als je op de pagina komt dat de gordijnen open gaan. Dit heb ik samen met Sanne gedaan aan de hand van eem animatie. Animeren met CSS was één van mijn ambities, dus het was erg interessant om hier de eerste week meteen mee te beginnen. 
+  Ik ben begonnen met de achtergrond en de gordijnen. Ik wil heel graag dat als je op de pagina komt dat de gordijnen open gaan. Dit heb ik samen met Sanne gedaan aan de hand van een animatie. Animeren met CSS was één van mijn ambities, dus het was erg interessant om hier de eerste week meteen mee te beginnen. 
 
-  Ik heb ook mijn eerste Micky toegevoegd en gepositioneerd. 
+  Ik heb ook mijn eerste Micky toegevoegd en gepositioneerd. Dit was ook één van mijn leerdoelen. Ik ben blij dat ik hier meteen aan heb kunnen werken. 
 
   
   </summary>
@@ -60,7 +60,7 @@ Mijn startniveau is: blauw
   Het idee was dat als er een nieuwe micky kwam de gordijnen dicht en weer open zouden gaan. Uit de feedback bleek dat dit vertraging brengt in de interface en je minder soepel door interface kan. 
 
   #### oplossing:
-  Ik heb er toen voor gekozen dat de gordijnen alleen op het begin open gaan. Als je nu op een ander jaartal klikt komt meteen de goede Mickey in beeld. Je hoeft niet meer te wachtenm tot de gordijnen open zijn. 
+  Ik heb er toen voor gekozen dat de gordijnen alleen op het begin open gaan. Als je nu op een ander jaartal klikt komt meteen de goede Mickey in beeld. Je hoeft niet meer te wachten tot de gordijnen dicht en weer open gaan. 
 
   ### Bevinding 2:
   Ik had zelf nog niet nagedacht over geluid, dus ik kreeg als feedback dat dit een leuke extra zou kunnen zijn. Bij Mickey Mouse kan je namelijk veel passende geluiden vinden om zo de interface nog meer een geheel te maken. 
@@ -69,16 +69,18 @@ Mijn startniveau is: blauw
   Geluiden zoeken die passen bij het concept en het onderwerp.
 
   ### Bevinding 3:
-  We hadden les gehad over animaties in de interface. Hier had ik ook nog niet overna gedacht. Dit is wel een detail die ik graag wil toevoegem in mijn interface. Dit brengt namelijk meer leven in de interface.
+  We hadden les gehad over animaties in de interface. Hier had ik ook nog niet overna gedacht. Dit is wel een detail die ik graag wil toevoegen in mijn interface. Dit brengt namelijk meer leven in de interface.
 
   #### oplossing:
-  Ik heb verschillende animaties opgezocht en die ga ik toevoegen aan de Mickey's. 
+  Ik heb verschillende animaties opgezocht die ik ga toevoegen aan de Mickey's. 
 
   ### Bevinding 4:
-  We hadden les gehad over animaties in de interface. Hier had ik ook nog niet overna gedacht. Dit is wel een detail die ik graag wil toevoegem in mijn interface. Dit brengt namelijk meer leven in de interface.
+  Ik had op het begin nog een ander lettertype wat minder goed zichtbaar was. Je ziet de afbeelding hieronder. Je ziet dat de tweede tekst niet goed leesbaar is. 
+
+  <img src="readme-images/veranderingtekst.png" width="375px" alt="tekst">
 
   #### oplossing:
-  Ik heb verschillende animaties opgezocht en die ga ik toevoegen aan de Mickey's. 
+  Ik heb toen het tweede lettertype dikker gemaakt, zodat het beter leesbaar is. 
 
   ### Bevinding 5:
   Ik had eerst normale buttons, maar ik wilde dat de buttons ook bij het thema van de interface zouden passen. 
@@ -110,10 +112,10 @@ Mijn startniveau is: blauw
   <img src="readme-images/veranderingtekst.png" width="375px" alt="tekst">
 
   #### oplossing:
-  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
+  Ik heb de kleur van de letters feller gemaakt.
 
   ### Bevinding 2:
-  De Mickey's waren nog niet allemaal even groot. Ik kreeg de feedback dat het meer een geheel zou zijn als ze allemaal evem groot zouden zijn. Vooral de Mickey 1999 was kleiner dan de rest. Deze Mickey valt daarom ook wat minder op.
+  De Mickey's waren nog niet allemaal even groot. Ik kreeg de feedback dat het meer een geheel zou zijn als ze allemaal even groot zouden zijn. Vooral de Mickey 1999 was kleiner dan de rest. Deze Mickey valt daarom ook wat minder op.
 
   #### oplossing:
   Ik heb alle Mickey's ongeveer even groot gemaakt zodat het allemaal een geheel is. 
@@ -125,10 +127,10 @@ Mijn startniveau is: blauw
   Ik had nog niet eerder een lijst aangemaakt. Ik heb hierbij hulp gekregen van Iriana en we hebben samen een lijst toegevoegd aan mijn code. 
 
   ### Bevinding 4:
-  Ik had bij elke Mickey een tekstwolkje staan. Ik had ze op het begin alleen op dezelfde plek gepositioneerd. Uiteindelijk kreeg ik het idee dat het leuker was als de tekstwolkjes bij elke Mickey anders zouden staan.
+  Ik had bij elke Mickey een tekstwolkje staan. Ik had ze op het begin alleen allemaal op dezelfde plek gepositioneerd. Uiteindelijk kreeg ik het idee dat het leuker was als de tekstwolkjes bij elke Mickey anders zouden staan.
 
   #### oplossing:
-  Ik heb toen voor elke Mickey de tekstwolk anders gepositioneerd. Ze staan nu allemaal aan de kant waar die Mickey heen kijkt. Zo zit er ook weer meer verschil in de verschillende jaren en ziet het geheel er logsicher uit. 
+  Ik heb toen voor elke Mickey de tekstwolk anders gepositioneerd. Ze staan nu allemaal aan de kant waar die Mickey heen kijkt. Zo zit er ook meer verschil in de verschillende jaren en ziet het geheel er logsicher uit. 
 
   ### Bevinding 5:
   Op het begin wilde ik achter elke link een website waar de kijkers dan informatie konden vinden. Deze sites waren alleen moeilijk te vinden per jaartal. Ik kreeg toen de feedback dat je ook video's kon toeveogen uit dat jaar. Dit leek mij eigenlijk een veel leuker idee. Je ziet dan namelijk ook hoe de Mickey uit dat jaar loopt, beweeegt en praat. Dit geeft uiteindelijk een veel completer beeld van de Mickey uit dat jaar. 
@@ -145,9 +147,11 @@ Mijn startniveau is: blauw
   <summary>
   Ik heb gewerkt aan links en een muziekje voor onder de interface. 
 
-  Ik heb gekozen om links te gebruiken om zo meer informatie over de Mickey's te geven. Ik heb de links een ander kleur gemaakt als je eroverheen hovert, zodat het duidelijk is dat de links klikbaar zijn.
+  Ik heb gekozen om links te gebruiken om zo meer informatie en beeld over de Mickey's te geven. Ik heb de links een ander kleur gemaakt als je eroverheen hovert, zodat het duidelijk is dat de links klikbaar zijn.
 
   Ik wilde ook graag een muziekje onder mijn interface. Dit lukte op het begin niet, omdat daar bepaalde regels aan zijn verbonden. Uiteindelijk heb ik muziek toegevoegd doormiddel van het klikken op eem button. De button heb ik op het begin van de interface toegevoegd en als je op 'play' klikt begint de muziek en gaan de gordijnen open. 
+
+  Als laatste heb ik mijn interface vaak getest, zodat hij ook goed werkt op Github.
   
   </summary>
   
@@ -164,7 +168,7 @@ Mijn startniveau is: blauw
   Ik heb toen alle onderdelen van de interface beter afgesteld zodat ze mee schaalde met de grootte van het scherm. 
 
   ### Bevinding 3:
-  Ook zag ik dat elke keer als ik iets veranderde in mijn CSS dat andere onderdelen soms mee veranderde. Ik kreeg daarom de feedback om vaak te blijven testen en dit ook op Github te doen. 
+  Ik zag ook dat elke keer als ik iets veranderde in mijn CSS dat andere onderdelen soms mee veranderde terwijl dat niet moest. Ik kreeg daarom de feedback om vaak te blijven testen en dit ook op Github te doen. 
 
   #### oplossing:
   Ik heb uiteindelijk op het einde mijn code nog getest en ook laten testen door andere mensen die mijn interface nog nooit gezien hadden. Zo zie je meteen of de interface ook duidelijk is. 
@@ -192,19 +196,19 @@ Mijn startniveau is: blauw
   <summary>Mijn eindresultaat & persoonlijke ontwikkeling</summary>
 
   ### Je uitkomst - karakteristiek screenshot(s):
-  <img src="readme-images/scherm1.jpg" width="375px" alt="final ontwerp">
-  <img src="readme-images/scherm2.jpg" width="375px" alt="final ontwerp">
-  <img src="readme-images/scherm3.jpg" width="375px" alt="final ontwerp">
-  <img src="readme-images/scherm4.jpg" width="375px" alt="final ontwerp">
-  <img src="readme-images/scherm5.jpg" width="375px" alt="final ontwerp">
+  <img src="readme-images/scherm1.png" width="375px" alt="final ontwerp">
+  <img src="readme-images/scherm2.png" width="375px" alt="final ontwerp">
+  <img src="readme-images/scherm3.png" width="375px" alt="final ontwerp">
+  <img src="readme-images/scherm4.png" width="375px" alt="final ontwerp">
+  <img src="readme-images/scherm5.png" width="375px" alt="final ontwerp">
 
 
   ### Dit ging goed/Heb ik geleerd: 
   Ik heb tijdens dit vak heel veel geleerd. Ik had nog weinig kennis waardoor ik ook nog heel veel kon leren. Ik heb veel samen gewerkt met klasgenoten en met Sanne. Ik vond het fijn dat we veel tijd op school hadden en we daardoor veel vragen konden stellen.
 
-  Ik heb vooral heel veel geleerd over CSS. Hier ben ik nu ook echt beter in geworden. Ik kan nu zelf items stijlen en positioneren. Zoals je hierboven ook ziet in de afbeeldingen heb ik de Mickey's en tekstwolkemn op verschillende plekken gepositioneerd. Ook heb ik veel geleerd over animaties. Alle Mickey's maken een andere beweging en in de gordijnen zit ook een animatie.
+  Ik heb vooral heel veel geleerd over CSS. Hier ben ik nu ook echt beter in geworden. Ik kan nu zelf items stijlen en positioneren. Zoals je hierboven ook ziet in de afbeeldingen heb ik de Mickey's en tekstwolken op verschillende plekken gepositioneerd. Ook heb ik veel geleerd over animaties. Alle Mickey's maken een andere beweging en in de gordijnen zit ook een animatie.
 
-  Ik ben uiteindelijk echt heel erg tevreden met het resultaat en de dingen die ik heb geleerd tijdens dit vak. Ik heb veel nieuwe kennis opgedaan en interface neergezet die werkt. 
+  Ik ben uiteindelijk echt heel erg tevreden met het resultaat en de dingen die ik heb geleerd tijdens dit vak. Ik heb veel nieuwe kennis opgedaan en interface neergezet die werkt zoals ik in mijn hoofd had. 
 
 
 
