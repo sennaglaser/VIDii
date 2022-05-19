@@ -53,7 +53,6 @@ Mijn startniveau is: blauw
 
   Ik heb ook mijn eerste Micky toegevoegd en gepositioneerd. 
 
-  Mijn bevindingen + wijzigingen (minimaal 5)
   
   </summary>
 
@@ -63,15 +62,11 @@ Mijn startniveau is: blauw
   #### oplossing:
   Ik heb er toen voor gekozen dat de gordijnen alleen op het begin open gaan. Als je nu op een ander jaartal klikt komt meteen de goede Mickey in beeld. Je hoeft niet meer te wachtenm tot de gordijnen open zijn. 
 
-
-
   ### Bevinding 2:
   Ik had zelf nog niet nagedacht over geluid, dus ik kreeg als feedback dat dit een leuke extra zou kunnen zijn. Bij Mickey Mouse kan je namelijk veel passende geluiden vinden om zo de interface nog meer een geheel te maken. 
 
   #### oplossing:
   Geluiden zoeken die passen bij het concept en het onderwerp.
-
-
 
   ### Bevinding 3:
   We hadden les gehad over animaties in de interface. Hier had ik ook nog niet overna gedacht. Dit is wel een detail die ik graag wil toevoegem in mijn interface. Dit brengt namelijk meer leven in de interface.
@@ -79,13 +74,17 @@ Mijn startniveau is: blauw
   #### oplossing:
   Ik heb verschillende animaties opgezocht en die ga ik toevoegen aan de Mickey's. 
 
-
-
   ### Bevinding 4:
   We hadden les gehad over animaties in de interface. Hier had ik ook nog niet overna gedacht. Dit is wel een detail die ik graag wil toevoegem in mijn interface. Dit brengt namelijk meer leven in de interface.
 
   #### oplossing:
   Ik heb verschillende animaties opgezocht en die ga ik toevoegen aan de Mickey's. 
+
+  ### Bevinding 5:
+  Ik had eerst normale buttons, maar ik wilde dat de buttons ook bij het thema van de interface zouden passen. 
+
+  #### oplossing:
+  Ik heb er toen voor gekozen om de buttons zelf in Illustrator vorm te geven. 
 
 
 </details>
@@ -103,7 +102,7 @@ Mijn startniveau is: blauw
 
   Ik heb daarna samen met Sanne ervoor gezorgd dat de buttons gekoppeld zijn aan de goede beelden. Je kan nu met de buttons naar de verschillende Mickey's kijken. 
   
-  Mijn bevindingen + wijzigingen (minimaal 5)</summary>
+  </summary>
   
   ### Bevinding 1:
   Het contrast van de tekst was nog niet goed. Ik heb de kleur van de letter daarom wat feller geel gemaakt. Zo springen de letters er meer uit en zijn ze beter zichtbaar.
@@ -150,15 +149,13 @@ Mijn startniveau is: blauw
 
   Ik wilde ook graag een muziekje onder mijn interface. Dit lukte op het begin niet, omdat daar bepaalde regels aan zijn verbonden. Uiteindelijk heb ik muziek toegevoegd doormiddel van het klikken op eem button. De button heb ik op het begin van de interface toegevoegd en als je op 'play' klikt begint de muziek en gaan de gordijnen open. 
   
-  Mijn bevindingen + wijzigingen (minimaal 5)
   </summary>
   
   ### Bevinding 1:
   Als je dubbel klikte op een button kwam je opeens op een heel ander beeld terecht. Terwijl je eigenlijk bij hetzelfde beeld moest blijven. Ik had de buttons nog niet goed afgesteld. 
 
   #### oplossing:
-  Ik heb de uiteindelijk goed afgesteld, zodat als je op een button met een jaartal klikt de interface bij dat jaartal blijft. 
-
+  Ik heb de buttons uiteindelijk goed afgesteld, zodat als je op een button met een jaartal klikt de interface bij dat jaartal blijft. 
 
   ### Bevinding 2:
   Ik kreeg ook de feedback dat mijn interface nog niet responsive genoeg was. Sommige delen schaalde heel goed mee en anderen weer niet. Hierdoor kreeg je een raar beeld als je het beeldscherm kleiner maakte. 
@@ -179,10 +176,10 @@ Mijn startniveau is: blauw
   Uiteindelijk ben ik toen nog een paar keer mijn code door gaan lezen en heb ik ook andere mensen ernaar laten kijken. Het bleek dat ik ergens een hoofdletter niet had staan. Dit is een heel makkelijk op te lossen probleem, die je soms toch niet kan vinden. 
 
   ### Bevinding 5:
-  Ik had uiteindelijk toch nog een paar problemen met mijn interface op Github. Een voorbeeld hiervan was dat mijn lettertype niet mee veranderde. Het lettertype was speciaal uitgezocht voor deze interface waardoor het jammer zou zijn als deze niet mee zou veranderen in de uiteindelijke interface. 
+  Ik had mijn play button nog op een basic manier vormgegeven. Dit kon nog wel iets meer bij het thema passen. 
 
   #### oplossing:
-  Uiteindelijk ben ik toen nog een paar keer mijn code door gaan lezen en heb ik ook andere mensen ernaar laten kijken. Het bleek dat ik ergens een hoofdletter niet had staan. Dit is een heel makkelijk op te lossen probleem, die je soms toch niet kan vinden. 
+  Ik heb toen het hoofdlettertype toegevoegd aan de button. Samen met de achtergrond van de gordijnen en het lettertype komt de sfeer van het theater meteen over op het beginscherm. 
 
 </details>
 
@@ -195,19 +192,27 @@ Mijn startniveau is: blauw
   <summary>Mijn eindresultaat & persoonlijke ontwikkeling</summary>
 
   ### Je uitkomst - karakteristiek screenshot(s):
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="final ontwerp">
+  <img src="readme-images/scherm1.jpg" width="375px" alt="final ontwerp">
+  <img src="readme-images/scherm2.jpg" width="375px" alt="final ontwerp">
+  <img src="readme-images/scherm3.jpg" width="375px" alt="final ontwerp">
+  <img src="readme-images/scherm4.jpg" width="375px" alt="final ontwerp">
+  <img src="readme-images/scherm5.jpg" width="375px" alt="final ontwerp">
 
 
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatje(s)
+  Ik heb tijdens dit vak heel veel geleerd. Ik had nog weinig kennis waardoor ik ook nog heel veel kon leren. Ik heb veel samen gewerkt met klasgenoten en met Sanne. Ik vond het fijn dat we veel tijd op school hadden en we daardoor veel vragen konden stellen.
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+  Ik heb vooral heel veel geleerd over CSS. Hier ben ik nu ook echt beter in geworden. Ik kan nu zelf items stijlen en positioneren. Zoals je hierboven ook ziet in de afbeeldingen heb ik de Mickey's en tekstwolkemn op verschillende plekken gepositioneerd. Ook heb ik veel geleerd over animaties. Alle Mickey's maken een andere beweging en in de gordijnen zit ook een animatie.
+
+  Ik ben uiteindelijk echt heel erg tevreden met het resultaat en de dingen die ik heb geleerd tijdens dit vak. Ik heb veel nieuwe kennis opgedaan en interface neergezet die werkt. 
+
 
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatje(s)
+  Ik vond vooral javascript erg lastig. Ik heb hier wel mee gewerkt, maar vooral samen met Sanne. Ik had hier ook echt wel hulp bij nodig. Ik had bepaalde dingen in mijn hoofd die ik graag wilde in mijn interface en dat moest met javascript. Bijvoorbeeld dat je via de buttons naar de juiste Mickey gaat. Dit is uiteindelijk wel gelukt met hulp van Sanne. Hier zou ik in de toekomst wel nog veel meer over kunnen leren. 
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  Het is niet gelukt om nog verschillende achtergronden en elementen toe te voegen. Bijvoorbeeld dat je bij elke Mickey een anders soort theater voorstelling zou hebben. Het thema komt toch heel duidelijk over en ben ik tevreden met de achtergrond. 
+
 </details>
 
 
@@ -217,12 +222,25 @@ Mijn startniveau is: blauw
 ## Bronnenlijst
 
 <details open>
-<summary>continu bijhouden terwijl je werkt</summary>
+<summary></summary>
 
-Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-1. bron 1
-2. bron 2
-3. ...
+1. https://www.dreamstime.com/stock-images-red-curtain-closing-image19585304
+2. https://en.freejpg.com.ar/stockphotos/premium/488175641/red-curtains-on-a-stage
+3. https://br.pinterest.com/pin/608478599635541413/
+4. https://www.vhv.rs/viewpic/hbRmx_original-mickey-mouse-1928-hd-png-download/
+5. https://pngtree.com/freepng/retro-light-vintage-signboard_4255819.html
+6. https://ar.pinterest.com/pin/545780048590111693/
+7. https://www.marijnherder.com/#/jensherman/
+8. https://vandaagindegeschiedenis.nl/15-mei/
+9. https://www.youtube.com/watch?v=4FvMCg_SIqw
+10. https://www.youtube.com/watch?v=fdZU0GudH8E 
+11. https://www.youtube.com/watch?v=CUJ33oZMW3A
+12. https://www.dafont.com/
+13. https://www.fontsquirrel.com
+14. https://animista.net/play/entrances/bounce-in
+15. https://animista.net/play/basic/rotate/rotate-vert-center
+16. https://animista.net/play/entrances/slide-in-elliptic/slide-in-elliptic-left-fwd
+17. https://animista.net/play/text/flicker/text-flicker-out-glow 
 
 </details>
