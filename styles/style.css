@@ -122,6 +122,12 @@ transform:translatey(2px);
 cursor:pointer;
 }
 
+section.button-container ol :focus {
+ outline:auto;
+ color: var(--hoofd-kleur);
+
+}
+
 section.button-container ol button img {
   width:100%;
 }
