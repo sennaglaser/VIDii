@@ -74,7 +74,19 @@ Mijn startniveau is: blauw
 
 
   ### Bevinding 3:
-  ...
+  We hadden les gehad over animaties in de interface. Hier had ik ook nog niet overna gedacht. Dit is wel een detail die ik graag wil toevoegem in mijn interface. Dit brengt namelijk meer leven in de interface.
+
+  #### oplossing:
+  Ik heb verschillende animaties opgezocht en die ga ik toevoegen aan de Mickey's. 
+
+
+
+  ### Bevinding 4:
+  We hadden les gehad over animaties in de interface. Hier had ik ook nog niet overna gedacht. Dit is wel een detail die ik graag wil toevoegem in mijn interface. Dit brengt namelijk meer leven in de interface.
+
+  #### oplossing:
+  Ik heb verschillende animaties opgezocht en die ga ik toevoegen aan de Mickey's. 
+
 
 </details>
 
@@ -85,7 +97,11 @@ Mijn startniveau is: blauw
 
 <details>
   <summary>
-  
+  Ik heb gewerkt aan de buttons en ik heb gewerkt met javascript. 
+
+  De buttons heb ik meer vormgegeven. Ik heb er een hover functie aan toegevoegd. De buttons lichten op en veranderen een beetje van positie als je eroverheen gaat. Het is zo duidelijk dat de buttons klikbaar zijn. 
+
+  Ik heb daarna samen met Sanne ervoor gezorgd dat de buttons gekoppeld zijn aan de goede beelden. Je kan nu met de buttons naar de verschillende Mickey's kijken. 
   
   Mijn bevindingen + wijzigingen (minimaal 5)</summary>
   
@@ -97,19 +113,29 @@ Mijn startniveau is: blauw
   #### oplossing:
   Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
 
-
-
   ### Bevinding 2:
-  Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
+  De Mickey's waren nog niet allemaal even groot. Ik kreeg de feedback dat het meer een geheel zou zijn als ze allemaal evem groot zouden zijn. Vooral de Mickey 1999 was kleiner dan de rest. Deze Mickey valt daarom ook wat minder op.
 
   #### oplossing:
-  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
-
-
+  Ik heb alle Mickey's ongeveer even groot gemaakt zodat het allemaal een geheel is. 
 
   ### Bevinding 3:
-  ...
+  Ik had nog geen li en ol in mijn code zitten. Deze zijn handig voor items die bij elkaar horen. 
 
+  #### oplossing:
+  Ik had nog niet eerder een lijst aangemaakt. Ik heb hierbij hulp gekregen van Iriana en we hebben samen een lijst toegevoegd aan mijn code. 
+
+  ### Bevinding 4:
+  Ik had bij elke Mickey een tekstwolkje staan. Ik had ze op het begin alleen op dezelfde plek gepositioneerd. Uiteindelijk kreeg ik het idee dat het leuker was als de tekstwolkjes bij elke Mickey anders zouden staan.
+
+  #### oplossing:
+  Ik heb toen voor elke Mickey de tekstwolk anders gepositioneerd. Ze staan nu allemaal aan de kant waar die Mickey heen kijkt. Zo zit er ook weer meer verschil in de verschillende jaren en ziet het geheel er logsicher uit. 
+
+  ### Bevinding 5:
+  Op het begin wilde ik achter elke link een website waar de kijkers dan informatie konden vinden. Deze sites waren alleen moeilijk te vinden per jaartal. Ik kreeg toen de feedback dat je ook video's kon toeveogen uit dat jaar. Dit leek mij eigenlijk een veel leuker idee. Je ziet dan namelijk ook hoe de Mickey uit dat jaar loopt, beweeegt en praat. Dit geeft uiteindelijk een veel completer beeld van de Mickey uit dat jaar. 
+
+  #### oplossing:
+  Ik heb toen verschillende video's opgezocht die komen uit het jaar van de Mickey's die ik had uitgekozen. 
 </details>
 
 
@@ -117,28 +143,46 @@ Mijn startniveau is: blauw
 ## Voortgang/Feedback 3
 
 <details>
-  <summary>Mijn bevindingen + wijzigingen (minimaal 5)</summary>
+  <summary>
+  Ik heb gewerkt aan links en een muziekje voor onder de interface. 
+
+  Ik heb gekozen om links te gebruiken om zo meer informatie over de Mickey's te geven. Ik heb de links een ander kleur gemaakt als je eroverheen hovert, zodat het duidelijk is dat de links klikbaar zijn.
+
+  Ik wilde ook graag een muziekje onder mijn interface. Dit lukte op het begin niet, omdat daar bepaalde regels aan zijn verbonden. Uiteindelijk heb ik muziek toegevoegd doormiddel van het klikken op eem button. De button heb ik op het begin van de interface toegevoegd en als je op 'play' klikt begint de muziek en gaan de gordijnen open. 
+  
+  Mijn bevindingen + wijzigingen (minimaal 5)
+  </summary>
   
   ### Bevinding 1:
-  Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
-
-
+  Als je dubbel klikte op een button kwam je opeens op een heel ander beeld terecht. Terwijl je eigenlijk bij hetzelfde beeld moest blijven. Ik had de buttons nog niet goed afgesteld. 
 
   #### oplossing:
-  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
-
+  Ik heb de uiteindelijk goed afgesteld, zodat als je op een button met een jaartal klikt de interface bij dat jaartal blijft. 
 
 
   ### Bevinding 2:
-  Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
+  Ik kreeg ook de feedback dat mijn interface nog niet responsive genoeg was. Sommige delen schaalde heel goed mee en anderen weer niet. Hierdoor kreeg je een raar beeld als je het beeldscherm kleiner maakte. 
 
   #### oplossing:
-  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
-
-
+  Ik heb toen alle onderdelen van de interface beter afgesteld zodat ze mee schaalde met de grootte van het scherm. 
 
   ### Bevinding 3:
-  ...
+  Ook zag ik dat elke keer als ik iets veranderde in mijn CSS dat andere onderdelen soms mee veranderde. Ik kreeg daarom de feedback om vaak te blijven testen en dit ook op Github te doen. 
+
+  #### oplossing:
+  Ik heb uiteindelijk op het einde mijn code nog getest en ook laten testen door andere mensen die mijn interface nog nooit gezien hadden. Zo zie je meteen of de interface ook duidelijk is. 
+
+  ### Bevinding 4:
+  Ik had uiteindelijk toch nog een paar problemen met mijn interface op Github. Een voorbeeld hiervan was dat mijn lettertype niet mee veranderde. Het lettertype was speciaal uitgezocht voor deze interface waardoor het jammer zou zijn als deze niet mee zou veranderen in de uiteindelijke interface. 
+
+  #### oplossing:
+  Uiteindelijk ben ik toen nog een paar keer mijn code door gaan lezen en heb ik ook andere mensen ernaar laten kijken. Het bleek dat ik ergens een hoofdletter niet had staan. Dit is een heel makkelijk op te lossen probleem, die je soms toch niet kan vinden. 
+
+  ### Bevinding 5:
+  Ik had uiteindelijk toch nog een paar problemen met mijn interface op Github. Een voorbeeld hiervan was dat mijn lettertype niet mee veranderde. Het lettertype was speciaal uitgezocht voor deze interface waardoor het jammer zou zijn als deze niet mee zou veranderen in de uiteindelijke interface. 
+
+  #### oplossing:
+  Uiteindelijk ben ik toen nog een paar keer mijn code door gaan lezen en heb ik ook andere mensen ernaar laten kijken. Het bleek dat ik ergens een hoofdletter niet had staan. Dit is een heel makkelijk op te lossen probleem, die je soms toch niet kan vinden. 
 
 </details>
 

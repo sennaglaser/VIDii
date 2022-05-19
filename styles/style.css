@@ -58,6 +58,33 @@ body{
 
 
 
+/* button play */
+button.tadaa {
+  position: fixed;
+  top:18vw;
+  left:40%;
+  border-radius:300em;
+  width:250px;
+  height:250px;
+
+  color: var(--kleur-link);
+  background-color: var(--kleur-button);
+  font-family: 'budmojiggler';
+  font-size: 7vw;
+  border: none;
+
+  z-index: 1000;
+
+  cursor:pointer;
+}
+
+
+body.tadaa button.tadaa {
+  display: none;
+}
+
+
+
 
 /* buttons */
 section.button-container {
@@ -85,12 +112,12 @@ section.button-container ol button {
   display: block;
 }
 
-section.button-container ol utton:hover {
+section.button-container ol :hover {
 transform:translatey(2px);
 
   filter:
-  drop-shadow(0 0 .25em var(--hoofd-kleur))
-  drop-shadow(0 0 .5em var(--hoofd-kleur));
+  drop-shadow(0 0 .20em var(--hoofd-kleur))
+  drop-shadow(0 0 .2em var(--hoofd-kleur));
 /*bron: sanne */
 cursor:pointer;
 }
@@ -111,7 +138,7 @@ section.button-container ol button img {
   height: auto;
 
   animation: bounce-in-top 1.1s both;
-  animation-duration: 3s;
+  animation-duration: 5s;
 
   z-index: 0;
 }
@@ -548,24 +575,3 @@ p {
 /* bron: https://animista.net/play/text/flicker/text-flicker-out-glow */
 
 
-
-button.tadaa {
-  position: fixed;
-  border-radius:300em;
-
-  color: var(--kleur-link);
-  background-color: var(--kleur-button);
-  font-family: 'budmojiggler';
-  font-size: 7vw;
-  border: none;
-
-  z-index: 1000;
-  width:250px;
-  height:250px;
-
-  cursor:pointer;
-}
-
-body.tadaa button.tadaa {
-  display: none;
-}

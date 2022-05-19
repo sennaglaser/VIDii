@@ -29,7 +29,7 @@ deButton1999.addEventListener("click", micky1999InBeeld);
 function micky1999InBeeld() {
     deMicky.classList.remove("micky1928", "micky1935", "micky2020")
 	deMicky.classList.add("micky1999")
-    tekstLink.href="https://www.nu.nl";
+    tekstLink.href="https://www.youtube.com/watch?v=fdZU0GudH8E";
     tekstLink.textContent = "Hi, look at this!";
 }
 
@@ -39,8 +39,8 @@ deButton2020.addEventListener("click", micky2020InBeeld);
 function micky2020InBeeld() {
     deMicky.classList.remove("micky1928", "micky1935", "micky1999")
 	deMicky.classList.add("micky2020")
-    tekstLink.href="https://www.nu.nl";
-    tekstLink.textContent = "More about me!";
+    tekstLink.href="https://www.youtube.com/watch?v=CUJ33oZMW3A";
+    tekstLink.textContent = "A little movie with me!";
 }
 
 
