@@ -185,6 +185,20 @@ Mijn startniveau is: blauw
   #### oplossing:
   Ik heb toen het hoofdlettertype toegevoegd aan de button. Samen met de achtergrond van de gordijnen en het lettertype komt de sfeer van het theater meteen over op het beginscherm. 
 
+  ### Bevinding 6:
+  Ik had nog geen focus state toegevoegd.  
+
+  #### oplossing:
+  Ik heb de focus state toegevoegd en je kan nu met je toetsenbord door de buttons gaan. 
+
+  ### Bevinding 7:
+  Ik had nog geen favicon toegevoegd. Dit is toch een goede extra voor een site. 
+
+  #### oplossing:
+  Ik heb de favicon toegevoegd en je ziet hier nu het hoofd van Mickey Mouse. 
+
+  
+
 </details>
 
 
